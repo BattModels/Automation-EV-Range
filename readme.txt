@@ -2,6 +2,8 @@
 GENERAL INFORMATION
 ----------------------------------------
 
+This repository has the code for running the Monte Carlo simulations and the associated velocity profiles for city and suburban driving.
+
 1. Title of Dataset:  Tradeoffs between automation and light vehicle electrification
 
 2. Author Information
@@ -113,7 +115,7 @@ Open Source? (Y/N):  N
 
 Additional Notes: MATLAB or Octave can both run the Monte Carlo code provided. 
 
-3. Date of data collection: 20181001 - 20190801
+2. Date of data collection: 20181001 - 20190801
 
 --------------------------------------------------
 NOTES ON REPRODUCIBILITY 
