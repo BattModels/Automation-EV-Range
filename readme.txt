@@ -4,7 +4,7 @@ GENERAL INFORMATION
 
 This repository has the code for running the Monte Carlo simulations and the associated velocity profiles for city and suburban driving.
 
-1. Title of Dataset:  Tradeoffs between automation and light vehicle electrification
+1. Title of Dataset:  Trade-offs between automation and light vehicle electrification
 
 2. Author Information
 
